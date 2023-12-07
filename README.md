@@ -11,7 +11,7 @@
 - Bunlara ek olarak seçenekler içinde alt başlıklar yer almaktadır, dosya vb. yöntemler ile yapılacak fonksiyonlara alt başlıklardan erişebilirsiniz.
 - Şifreleme/Deşifreleme işlemleri 26 harfli İngiliz alfabesini esas alarak çalışmaktadır. Arayüz Türkçeleştirilmiştir. Lakin kullanıcının Türkçe karakterler tanımlaması hatalara sebebiyet verebilir.
 - Program CLion adlı IDE ile yapılmıştır. Eğer IDE'niz kodu çalıştırırken hata veriyorsa İngilizce klavye ile yazılan versiyonunu kullanmanız önerilir. Bahsi geçen versiyonun linki aşağıdadır.
-- 
+- [İngilizce Alfabe Versiyon](https://github.com/KeremCanKuru22/AlgoritmaSifrelemeENG)
 ## Genel Kullanım
 - Şifreleme sistemi kullanıcıdan alınan metni alfabe içinde yine kullanıcıdan alınacak olan anahtar değeri kadar ileri öteler. Örneğin kullanıcının "Hello World" metnini tanımlayıp anahtar değerini "5" olarak ataması halinde program ekrana çıktı olarak "Mjqqt Btwqi" ibaresini yazdıracaktır.
 Bu çıktı sizin girdiğiniz metnin her bir harfinin 5 kez ileri ötelenmiş halidir.
