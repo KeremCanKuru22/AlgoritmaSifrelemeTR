@@ -26,8 +26,8 @@ Bu çıktı sizin girdiğiniz metnin her bir harfinin 5 kez geri ötelenmiş hal
   * Yeni Dosya Oluşturma seçeneği seçildiği surette program size özel bir "input.txt" dosyası oluşturacaktır.
   * Bunun haricinde kullanıcı, takviye olarak yeni bir dosya oluşturmak isterse "exe." dosyasının klasörüne yeni bir "txt." dosyası oluşturabilir ve kod içine yeni oluşturulan dosyanın adını entegre edebilir.
 ## Ekran Görüntüleri
-![Photo by Roman Synkevych on Unsplash](https://github.com/KeremCanKuru22/AlgoritmaSifrelemeTR/blob/edf50f97ff35d0f0c3afe645f394e13ac1229c4b/algoritmakisasinav2_tr/screenshot1.png "GitHub")
-
+![](https://github.com/KeremCanKuru22/AlgoritmaSifrelemeTR/blob/edf50f97ff35d0f0c3afe645f394e13ac1229c4b/algoritmakisasinav2_tr/screenshot1.png "GitHub")
+![](https://github.com/KeremCanKuru22/AlgoritmaSifrelemeTR/blob/main/algoritmakisasinav2_tr/screenshot2.png "GitHub")
 ## Kod Bloğu
 ```
 #include <stdio.h>
