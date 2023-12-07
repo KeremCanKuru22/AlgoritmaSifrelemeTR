@@ -28,6 +28,7 @@ Bu çıktı sizin girdiğiniz metnin her bir harfinin 5 kez geri ötelenmiş hal
 ## Ekran Görüntüleri
 ![](https://github.com/KeremCanKuru22/AlgoritmaSifrelemeTR/blob/edf50f97ff35d0f0c3afe645f394e13ac1229c4b/algoritmakisasinav2_tr/screenshot1.png "GitHub")
 ![](https://github.com/KeremCanKuru22/AlgoritmaSifrelemeTR/blob/main/algoritmakisasinav2_tr/screenshot2.png "GitHub")
+![](https://github.com/KeremCanKuru22/AlgoritmaSifrelemeTR/blob/main/algoritmakisasinav2_tr/screenshot3.png "GitHub")
 ## Kod Bloğu
 ```
 #include <stdio.h>
